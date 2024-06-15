@@ -1,1 +1,3 @@
-[jsebt.github.io](https://jsebt.github.io)
+[jsebt.github.io][def]
+
+[def]: https://jsebt.github.io
